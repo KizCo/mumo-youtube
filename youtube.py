@@ -1,3 +1,17 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+# Copyright (C) 2026 KizCo (https://github.com/KizCo)
+# Licensed under the 3-Clause BSD License.
+# 
+# This software is provided "as is", without warranty of any kind.
+# Redistribution and use in source/binary forms are permitted provided
+# that all original copyright notices and disclaimers are retained.
+#
+# youtube.py
+# This module parses YouTube links in text chat and fetches video titles.
+#
+
 import re
 import urllib.request
 import json
