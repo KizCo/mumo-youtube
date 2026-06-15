@@ -46,7 +46,7 @@ Restart your Mumo bot framework instance to load the new extension.
 ## ⚙️ Compatibility
 * Works natively with **Mumble 1.4.x / 1.5.x+** server deployments.
 * Written using the standardized `mumo_module` namespace layer.
-Mumo B
+Mumo Required:
 * https://github.com/mumble-voip/mumo
 
 ---
