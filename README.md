@@ -1,8 +1,7 @@
 # mumo-youtube
-Mumo module for Mumble 1.5+ that parses YouTube links in text chat and fetches video titles using the open oEmbed API fallback.
+Mumo module for Mumble 1.5+ that parses YouTube links in text chat and fetches video titles using the open oEmbed API fallback.  
+<img width="712" height="61" alt="image" src="https://github.com/user-attachments/assets/7f6bd35b-0502-4a6e-9be6-91efb49650f1" />
 
-
-A lightweight, robust python module for the **Mumo Bot Framework** that automatically detects YouTube links in Mumble text chat and broadcasts the video's title back to the channel.
 
 ---
 
